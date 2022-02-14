@@ -1,0 +1,1 @@
+const anthem = 'Amar sonar bangla ami tomai valobashi'; 
